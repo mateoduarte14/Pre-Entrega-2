@@ -1,4 +1,4 @@
-# Pre-Entrega-2
+# Proyecto Final IA
 Mateo Duarte
 
 IA: Generación de Prompts - Carreras Intensivas Comisión 71950 Generador de Currículum Inteligente
